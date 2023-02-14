@@ -1,19 +1,15 @@
 {
-  "name": "input-validatior",
+  "name": "input-validator",
   "version": "1.0.0",
-  "description": "for validating given input",
+  "description": "For validating the given input",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kanthiganesh/input-validator.git"
+    "url": "https://github.com/kanthiganesh/input-validator.git"
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kanthiganesh/input-validator/issues"
-  },
-  "homepage": "https://github.com/kanthiganesh/input-validator#readme"
+  "license": "ISC"
 }
